@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style type="text/css">
+        h1{
+            padding: 10px;
+            background-color: #efefef;
+            position: absolute;
+            top: 0px;
+            left: 500px;
+            width: 250px;
+        }
+        p{
+            width: 450px;
+            font-size: 120%;
+        }
+       
+        .example{
+            position: relative;
+            top: 10px;
+            left: 100px;
+        }
+        body{
+            width: 750px;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 20px;
+            color: #665544;
+
+    </style>
+</head>
+<body>
+    <h1>The Evolution of The bicycle</h1>
+    <p>In 1817 Baron von Drais invented a walking machine that would help him get around the royal gardens faster. Evolution of the 
+        bicycle began when in 1839 Kirkpatrick Macmillan invented the Macmillan Velocipede bicycle with pedals. It was a huge difference
+         from all other bicycles. Pedals were mounted to the rear wheel. </p>
+    <p class="example">● The first bike was invented in 1790 by Frenchmen Comte Mede de Sivrac. It was the Celerifere bicycle and it is the earliest 
+        two-wheeler. It had no pedals, had a seat, rigid wooden frame, and two wheels. It is like a bike for a child as the rider
+         needed to power the bike forward by using the feet.</p>
+    <p>The Draisine bicycle was created by Baron Karl von Drais in 1817. The bicycle had two wheels, but still no pedals, so the rider
+         still needed to push it with his feet. The steering wheel appeared in this bicycle version. It has become a forerunner of the 
+         modern bicycle. This type of bicycle also was being used as the rail vehicle</p>
+         <p>fhfhggig</p>
+</body>
+</html>
